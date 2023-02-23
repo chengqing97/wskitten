@@ -7,6 +7,7 @@ Socket.io CLI client
 ```
 git clone https://github.com/chengqing97/wskitten.git
 cd wskitten
+npm run build
 npm link
 ```
 
